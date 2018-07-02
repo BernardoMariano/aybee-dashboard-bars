@@ -1,0 +1,72 @@
+{
+  "exp 1": {
+    "A": [
+      {
+        "start": {
+          "value": 0,
+          "inclusive": true
+        },
+        "end": {
+          "value": 0.1,
+          "inclusive": false
+        }
+      },
+      {
+        "start": {
+          "value": 0.5,
+          "inclusive": true
+        },
+        "end": {
+          "value": 0.6,
+          "inclusive": false
+        }
+      }
+    ],
+    "B": [
+      {
+        "start": {
+          "value": 0.2,
+          "inclusive": true
+        },
+        "end": {
+          "value": 0.25,
+          "inclusive": false
+        }
+      }
+    ]
+  },
+  "exp 2": {
+    "A": [
+      {
+        "start": {
+          "value": 0.26,
+          "inclusive": true
+        },
+        "end": {
+          "value": 0.3,
+          "inclusive": false
+        }
+      },
+      {
+        "start": {
+          "value": 0.6,
+          "inclusive": true
+        },
+        "end": {
+          "value": 0.62,
+          "inclusive": false
+        }
+      },
+      {
+        "start": {
+          "value": 0.7,
+          "inclusive": true
+        },
+        "end": {
+          "value": 1,
+          "inclusive": false
+        }
+      }
+    ]
+  }
+}
